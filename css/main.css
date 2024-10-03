@@ -1,0 +1,15 @@
+.bg-very-dark-grayish-blue {
+  background-color: hsl(217, 19%, 35%);
+}
+.text-very-dark-grayish-blue {
+  color: hsl(217, 19%, 35%);
+}
+.text-desaturated-dark-blue {
+  color: hsl(214, 17%, 51%);
+}
+.text-grayish-blue {
+  color: hsl(212, 23%, 69%);
+}
+.bg-light-grayish-blue {
+  background-color: hsl(210, 46%, 95%);
+}
